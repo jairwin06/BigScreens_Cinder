@@ -1,0 +1,226 @@
+TCameraMove_simple
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Info.plist /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/Info.plist
+cCpResource Flat.vert build/Debug/CameraMove_simple.app/Contents/Resources/Flat.vert
+cCpResource Phong.vert build/Debug/CameraMove_simple.app/Contents/Resources/Phong.vert
+cCpResource /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/resources/CinderApp.icns build/Debug/CameraMove_simple.app/Contents/Resources/CinderApp.icns
+cCpResource Cell.vert build/Debug/CameraMove_simple.app/Contents/Resources/Cell.vert
+cCpResource Flat.frag build/Debug/CameraMove_simple.app/Contents/Resources/Flat.frag
+cCpResource Phong.frag build/Debug/CameraMove_simple.app/Contents/Resources/Phong.frag
+cCpResource Cell.frag build/Debug/CameraMove_simple.app/Contents/Resources/Cell.frag
+cProcessPCH++ /var/folders/69/wxnmccw53wd6tv46p_49xj6m0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CameraMove_simple_Prefix-bztwmtrdqudhhifiajzlvexiisbi/CameraMove_simple_Prefix.pch.pch CameraMove_simple_Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052CDCD4A000000000000044C
+t1389219146
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005338941200000000000001DE
+t1396216850
+s478
+
+N/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/resources/CinderApp.icns
+c000000005428CB7C0000000000070375
+t1411959676
+s459637
+
+N/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/CameraMove_simple_Prefix.pch
+c000000005428CD05000000000000012D
+t1411960069
+s301
+
+N/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/Cell.frag
+c00000000542776D50000000000000237
+t1411872469
+s567
+
+N/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/Cell.vert
+c00000000542776F000000000000001C0
+t1411872496
+s448
+
+N/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/Flat.frag
+c00000000542779A6000000000000020F
+t1411873190
+s527
+
+N/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/Flat.vert
+c000000005427783200000000000001CD
+t1411872818
+s461
+
+N/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/Info.plist
+c000000005428CB7C0000000000000462
+t1411959676
+s1122
+
+N/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/Phong.frag
+c000000005427784B0000000000000411
+t1411872843
+s1041
+
+N/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/Phong.vert
+c000000005427785600000000000001CC
+t1411872854
+s460
+
+N/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Info.plist
+t2
+s0
+
+N/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Resources/Cell.frag
+t2
+s0
+
+N/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Resources/Cell.vert
+t2
+s0
+
+N/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Resources/Flat.frag
+t2
+s0
+
+N/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Resources/Flat.vert
+t2
+s0
+
+N/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Resources/Phong.frag
+t2
+s0
+
+N/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Resources/Phong.vert
+t2
+s0
+
+N/var/folders/69/wxnmccw53wd6tv46p_49xj6m0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CameraMove_simple_Prefix-bztwmtrdqudhhifiajzlvexiisbi/CameraMove_simple_Prefix.pch.pch
+t2
+s0
+
+CBuild AST from /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/src/CameraMove_simpleApp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies36cab68604d9b941^5ef5c08604d9b941^---0#1#1#--18"Check dependencies36"6F28289C-B84A-4186-B33C-A426FFF87B11-
+
+CCompileC build/CameraMove_simple.build/Debug/CameraMove_simple.build/Objects-normal/x86_64/CameraMove_simpleApp.o /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/src/CameraMove_simpleApp.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCpResource /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/resources/CinderApp.icns build/Debug/CameraMove_simple.app/Contents/Resources/CinderApp.icns
+s433652870.743038
+e433652870.744344
+r1
+xCpResource
+x/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/resources/CinderApp.icns
+xbuild/Debug/CameraMove_simple.app/Contents/Resources/CinderApp.icns
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug/CameraMove_simple.app/Contents/Resources/CinderApp.icns191"CpResource /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/resources/CinderApp.icns build/Debug/CameraMove_simple.app/Contents/Resources/CinderApp.icnsdd43be8604d9b941^a378c18604d9b941^---0#0#1#-19%DVTDocumentLocation2@168"file:///Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Resources/CinderApp.icns0034a854dfffdf42^665"CpResource /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/resources/CinderApp.icns build/Debug/CameraMove_simple.app/Contents/Resources/CinderApp.icns    cd /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/resources/CinderApp.icns /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Resources36"C794A570-7031-43F2-A797-B448B092D3AB-
+bA844BE2B-34CE-49E5-A24A-37EEBEF06F77
+
+CCpResource Cell.frag build/Debug/CameraMove_simple.app/Contents/Resources/Cell.frag
+s433652870.743964
+e433652870.744799
+r1
+xCpResource
+xCell.frag
+xbuild/Debug/CameraMove_simple.app/Contents/Resources/Cell.frag
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/CameraMove_simple.app/Contents/Resources/Cell.frag83"CpResource Cell.frag build/Debug/CameraMove_simple.app/Contents/Resources/Cell.fragc87ebe8604d9b941^1c7cc18604d9b941^---0#0#1#-19%DVTDocumentLocation2@163"file:///Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Resources/Cell.frag0034a854dfffdf42^548"CpResource Cell.frag build/Debug/CameraMove_simple.app/Contents/Resources/Cell.frag    cd /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/Cell.frag /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Resources36"15502EBB-3802-4A8E-9253-AE3D51665043-
+bA844BE2B-34CE-49E5-A24A-37EEBEF06F77
+
+CCpResource Cell.vert build/Debug/CameraMove_simple.app/Contents/Resources/Cell.vert
+s433652870.743248
+e433652870.744119
+r1
+xCpResource
+xCell.vert
+xbuild/Debug/CameraMove_simple.app/Contents/Resources/Cell.vert
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/CameraMove_simple.app/Contents/Resources/Cell.vert83"CpResource Cell.vert build/Debug/CameraMove_simple.app/Contents/Resources/Cell.vert6e51be8604d9b941^0875c18604d9b941^---0#0#1#-19%DVTDocumentLocation2@163"file:///Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Resources/Cell.vert0034a854dfffdf42^548"CpResource Cell.vert build/Debug/CameraMove_simple.app/Contents/Resources/Cell.vert    cd /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/Cell.vert /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Resources36"934AD330-0C4E-4BAF-99D6-F87B33B7F9FE-
+bA844BE2B-34CE-49E5-A24A-37EEBEF06F77
+
+CCpResource Flat.frag build/Debug/CameraMove_simple.app/Contents/Resources/Flat.frag
+s433652870.743444
+e433652870.744221
+r1
+xCpResource
+xFlat.frag
+xbuild/Debug/CameraMove_simple.app/Contents/Resources/Flat.frag
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/CameraMove_simple.app/Contents/Resources/Flat.frag83"CpResource Flat.frag build/Debug/CameraMove_simple.app/Contents/Resources/Flat.fragab5abe8604d9b941^7976c18604d9b941^---0#0#1#-19%DVTDocumentLocation2@163"file:///Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Resources/Flat.frag0034a854dfffdf42^548"CpResource Flat.frag build/Debug/CameraMove_simple.app/Contents/Resources/Flat.frag    cd /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/Flat.frag /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Resources36"4231112F-D3BB-4944-BF89-2D7CB27610AB-
+bA844BE2B-34CE-49E5-A24A-37EEBEF06F77
+
+CCpResource Flat.vert build/Debug/CameraMove_simple.app/Contents/Resources/Flat.vert
+s433652870.741811
+e433652870.743664
+r1
+xCpResource
+xFlat.vert
+xbuild/Debug/CameraMove_simple.app/Contents/Resources/Flat.vert
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/CameraMove_simple.app/Contents/Resources/Flat.vert83"CpResource Flat.vert build/Debug/CameraMove_simple.app/Contents/Resources/Flat.verta435be8604d9b941^1572c18604d9b941^---0#0#1#-19%DVTDocumentLocation2@163"file:///Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Resources/Flat.vert0034a854dfffdf42^548"CpResource Flat.vert build/Debug/CameraMove_simple.app/Contents/Resources/Flat.vert    cd /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/Flat.vert /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Resources36"D7F92837-E483-44BE-A521-794A2B5CBF6A-
+bA844BE2B-34CE-49E5-A24A-37EEBEF06F77
+
+CCpResource Phong.frag build/Debug/CameraMove_simple.app/Contents/Resources/Phong.frag
+s433652870.743676
+e433652870.744671
+r1
+xCpResource
+xPhong.frag
+xbuild/Debug/CameraMove_simple.app/Contents/Resources/Phong.frag
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Debug/CameraMove_simple.app/Contents/Resources/Phong.frag85"CpResource Phong.frag build/Debug/CameraMove_simple.app/Contents/Resources/Phong.fragb56fbe8604d9b941^bc7ac18604d9b941^---0#0#1#-19%DVTDocumentLocation2@164"file:///Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Resources/Phong.frag0034a854dfffdf42^551"CpResource Phong.frag build/Debug/CameraMove_simple.app/Contents/Resources/Phong.frag    cd /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/Phong.frag /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Resources36"3B969454-4188-4966-B19B-96852B2126B1-
+bA844BE2B-34CE-49E5-A24A-37EEBEF06F77
+
+CCpResource Phong.vert build/Debug/CameraMove_simple.app/Contents/Resources/Phong.vert
+s433652870.741993
+e433652870.743042
+r1
+xCpResource
+xPhong.vert
+xbuild/Debug/CameraMove_simple.app/Contents/Resources/Phong.vert
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Debug/CameraMove_simple.app/Contents/Resources/Phong.vert85"CpResource Phong.vert build/Debug/CameraMove_simple.app/Contents/Resources/Phong.vert4302be8604d9b941^006fc18604d9b941^---0#0#1#-19%DVTDocumentLocation2@164"file:///Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Resources/Phong.vert0034a854dfffdf42^551"CpResource Phong.vert build/Debug/CameraMove_simple.app/Contents/Resources/Phong.vert    cd /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/Phong.vert /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Resources36"14E73251-5230-467A-BE29-F549B5C0609D-
+bA844BE2B-34CE-49E5-A24A-37EEBEF06F77
+
+CLd /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/MacOS/CameraMove_simple normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Info.plist /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/Info.plist
+s433652870.739738
+e433652870.741257
+r1
+xProcessInfoPlistFile
+x/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Info.plist
+x/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Process /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/Info.plist85"ProcessInfoPlistFile build/Debug/CameraMove_simple.app/Contents/Info.plist Info.plist4c71bd8604d9b941^a96bc18604d9b941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/Info.plist0000000000000000^667"ProcessInfoPlistFile build/Debug/CameraMove_simple.app/Contents/Info.plist Info.plist    cd /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode    builtin-infoPlistUtility /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/Info.plist -genpkginfo /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app/Contents/Info.plist36"C92B45C2-0A5C-42C2-BEE7-0D4D15F699F9-
+bA844BE2B-34CE-49E5-A24A-37EEBEF06F77
+
+CProcessPCH++ /Users/jairwin06/Library/Developer/Xcode/DerivedData/CameraMove_simple-crlrdqfqwzztvkdycfwiqvfqvxyf/Index/PrecompiledHeaders/CameraMove_simple_Prefix-aypscafyjurresbvietnkuilqfbd_ast/CameraMove_simple_Prefix.pch.pch CameraMove_simple_Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/69/wxnmccw53wd6tv46p_49xj6m0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CameraMove_simple_Prefix-bztwmtrdqudhhifiajzlvexiisbi/CameraMove_simple_Prefix.pch.pch CameraMove_simple_Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s433652870.745334
+e433652870.758347
+r0
+xProcessPCH++
+x/var/folders/69/wxnmccw53wd6tv46p_49xj6m0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CameraMove_simple_Prefix-bztwmtrdqudhhifiajzlvexiisbi/CameraMove_simple_Prefix.pch.pch
+xCameraMove_simple_Prefix.pch
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/CameraMove_simple_Prefix.pch:6:11: fatal error: 'cinder/Cinder.h' file not found
+o        #include "cinder/Cinder.h"
+o                 ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile CameraMove_simple_Prefix.pch308"ProcessPCH++ /var/folders/69/wxnmccw53wd6tv46p_49xj6m0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CameraMove_simple_Prefix-bztwmtrdqudhhifiajzlvexiisbi/CameraMove_simple_Prefix.pch.pch CameraMove_simple_Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerb6dbbe8604d9b941^aa28c28604d9b941^-248"/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/CameraMove_simple_Prefix.pch:6:11: fatal error: 'cinder/Cinder.h' file not found        #include "cinder/Cinder.h"                 ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@32"'cinder/Cinder.h' file not found-433652870#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@129"file:///Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/CameraMove_simple_Prefix.pch0000000000000000^5#10#5#10#89#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@129"file:///Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/CameraMove_simple_Prefix.pch0000000000000000^3742"ProcessPCH++ /var/folders/69/wxnmccw53wd6tv46p_49xj6m0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CameraMove_simple_Prefix-bztwmtrdqudhhifiajzlvexiisbi/CameraMove_simple_Prefix.pch.pch CameraMove_simple_Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/CameraMove_simple.build/Debug/CameraMove_simple.build/CameraMove_simple-generated-files.hmap -I/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/CameraMove_simple.build/Debug/CameraMove_simple.build/CameraMove_simple-own-target-headers.hmap -I/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/CameraMove_simple.build/Debug/CameraMove_simple.build/CameraMove_simple-all-target-headers.hmap -iquote /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/CameraMove_simple.build/Debug/CameraMove_simple.build/CameraMove_simple-project-headers.hmap -iquote../../../Cinder/include -iquote../include -I/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/include -I../../../Cinder/boost -I/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/CameraMove_simple.build/Debug/CameraMove_simple.build/DerivedSources/x86_64 -I/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/CameraMove_simple.build/Debug/CameraMove_simple.build/DerivedSources -F/Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug --serialize-diagnostics /var/folders/69/wxnmccw53wd6tv46p_49xj6m0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CameraMove_simple_Prefix-bztwmtrdqudhhifiajzlvexiisbi/CameraMove_simple_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/69/wxnmccw53wd6tv46p_49xj6m0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CameraMove_simple_Prefix-bztwmtrdqudhhifiajzlvexiisbi/CameraMove_simple_Prefix.pch.d -c /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/CameraMove_simple_Prefix.pch -o /var/folders/69/wxnmccw53wd6tv46p_49xj6m0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CameraMove_simple_Prefix-bztwmtrdqudhhifiajzlvexiisbi/CameraMove_simple_Prefix.pch.pch36"F86CCB39-6D37-4A10-84E8-0D82A914427C-
+bA844BE2B-34CE-49E5-A24A-37EEBEF06F77
+
+CTouch /Users/jairwin06/Documents/Cinder_examples/Github_Cinder/Cinder_Tests/CameraMove_simple/xcode/build/Debug/CameraMove_simple.app
+r0
+
